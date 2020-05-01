@@ -672,8 +672,8 @@ font-size: 14px;
 		padding: 8px 10px;
 		margin: 0 auto;
 	}
-	.site_header{
-		min-height: 400px;
+	.user_name{
+		margin-top: 100px;
 	}
 	.modal-dialog{
 		position: relative;
