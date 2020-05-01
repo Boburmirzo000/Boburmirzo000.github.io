@@ -477,6 +477,9 @@ body{
 		padding: 8px 10px;
 		margin: 0 auto;
 	}
+	.site_header{
+		height: auto;
+	}
 	.site_logo-link{
 		display: none;
 	}
