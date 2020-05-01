@@ -478,7 +478,7 @@ body{
 		margin: 0 auto;
 	}
 	.site_header{
-		height: auto;
+		min-height: 400px;
 	}
 	.site_logo-link{
 		display: none;
