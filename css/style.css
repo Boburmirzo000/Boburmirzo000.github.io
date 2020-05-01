@@ -477,9 +477,6 @@ body{
 		padding: 8px 10px;
 		margin: 0 auto;
 	}
-	.site_header{
-		min-height: 400px;
-	}
 	.site_logo-link{
 		display: none;
 	}
@@ -674,6 +671,9 @@ font-size: 14px;
 		max-width: 300px;
 		padding: 8px 10px;
 		margin: 0 auto;
+	}
+	.site_header{
+		min-height: 400px;
 	}
 	.modal-dialog{
 		position: relative;
